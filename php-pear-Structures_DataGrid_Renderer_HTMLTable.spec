@@ -5,7 +5,7 @@
 %define		_pearname	Structures_DataGrid_Renderer_HTMLTable
 
 Summary:	%{_pearname} - Renderer driver using PEAR::HTML_Table
-Summary(pl.UTF-8):   %{_pearname} - sterownik renderera korzystający z PEAR::HTML_Table
+Summary(pl.UTF-8):	%{_pearname} - sterownik renderera korzystający z PEAR::HTML_Table
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
 Release:	1
