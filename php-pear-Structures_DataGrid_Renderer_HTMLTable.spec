@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Renderer driver using PEAR::HTML_Table
 Summary(pl.UTF-8):	%{_pearname} - sterownik renderera korzystający z PEAR::HTML_Table
 Name:		php-pear-%{_pearname}
-Version:	0.1.3
+Version:	0.1.4
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	ecc69818c475948b1e12f279626b7279
+# Source0-md5:	4b0a4fbb7a8a27d2ee94554e8f0481d9
 URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_HTMLTable/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
