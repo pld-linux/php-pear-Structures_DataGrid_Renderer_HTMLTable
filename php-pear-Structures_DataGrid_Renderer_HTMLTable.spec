@@ -13,6 +13,7 @@ Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_HTMLTable/
 BuildRequires:	php-pear-PEAR >= 1:1.4.9
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
+BuildRequires:	rpmbuild(macros) >= 1.300
 Requires:	php-pear
 Requires:	php-pear-HTML_Table >= 1.7.5
 Requires:	php-pear-PEAR-core >= 1:1.4.9
